@@ -23,6 +23,7 @@ class Dashboard extends Component {
 
     componentDidUpdate() {
         console.log('dhashboard : componentDidUpdate');
+        console.log('dhashboard : componentDidUpdate');
     }
 
     componentWillUnmount(){
